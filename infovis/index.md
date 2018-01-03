@@ -14,7 +14,7 @@ categories: infovis
 #### 我国城市公共交通存在的问题
 </div>
 </div>
-<div class="col-md-9"><!-- left -->
+<div class="col-md-6"><!-- left -->
 公共交通有所发展，但公交车比自行车慢，路面车辆过多，包括私人汽车、公共交通和社会用车
 
 <iframe src="https://public.tableau.com/views/_16035/1_1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=true" width="960px" height="500px" frameborder="0"></iframe>
@@ -23,7 +23,7 @@ categories: infovis
 更多的人有购车的欲望
 
 </div> 
-<div class="col-md-3" markdown="1" ><!-- right -->
+<div class="col-md-6" markdown="1" ><!-- right -->
 
 
 ## 形成我国城市公共交通现有问题的主要原因： 
