@@ -1,36 +1,38 @@
 ---
 layout: default
-title:  "SDG"
-categories: SDG portfolio visualization
+title:  "infovis"
+categories: infovis
 ---
-## 概要
-《2017年可持续发展目标报告》回顾了在实施2030年可持续发展议程的第二年，17项目标的进展情况。该报告基于最新的可用数据，突出强调了随着国际社会越来越充分地认识到2030年议程所倡导的宏伟目标和原则，而面临的收获与挑战。
-
-尽管过去十年在所有发展领域均取得了显著进展，但按照前几年的发展速度，不足以在2030年完全实现可持续发展目标具体目标。因此，时间非常紧迫。另外，如下文所示，进展并不总是均衡的。不同区域、不同性别、不同年龄、不同财富状况和不同居住地包括城乡之间，进步是不平衡的。要想实现2030年议程所勾画的宏伟愿景，需要速度更快、更包容的进展。
+## 摘要
+随着我国经济的发展和人们生活水平的快速提高，我国的交通问题也在日趋严重。公共交通是一个国家最基本的公共交通设施，发展公共交通，
+实行公交优先是解决城市交通拥堵问题的最有效的措施之一。面对日益严重的城市交通拥堵问题，我国的城市公共交通现状如何，
+存在哪些问题，这些问题因何形成，又应该通过什么样的途径来解决呢？
 
 <div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
 <div class="col-md-12">
 <div style="background: #EA1D2D; color:white" class="btn" markdown="1">
-#### 目标1：在全世界消除一切形式的贫困
+#### 我国城市公共交通存在的问题
 </div>
 </div>
-<div class="col-md-3"><!-- left -->
-生活在极端贫困中的人口数量显著下降   
-<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="SDG 2017 Report Goal 1" style="width: 100%" type="image/svg+xml">
-社保系统对脆弱人群的覆盖率仍然不高
+<div class="col-md-6"><!-- left -->
+公共交通有所发展，但公交车比自行车慢，路面车辆过多，包括私人汽车、公共交通和社会用车
+
+<iframe src="https://public.tableau.com/views/_16035/1_1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=true" width="960px" height="500px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/views/_16035/4?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=true" width="960px" height="500px" frameborder="0"></iframe>
+
+更多的人有购车的欲望
+
 </div> 
-<div class="col-md-9" markdown="1" ><!-- right -->
-让世界各地的人们得到所需的支持以摆脱一切形式的贫困，是可持续发展的本质。
+<div class="col-md-6" markdown="1" ><!-- right -->
 
-目标1侧重于通过促进社会保障制度、体面就业和加强穷人的抗风险能力建设等相关战略来消除贫困。
 
-* 2013年估计有7.67亿人生活在极端贫困线以下，低于1999年的17亿人。这意味着全球极端贫困率从1999年的28%下降到2013年的11%。
-* 2016年，全球有近10%的就业人口与其家人每人每日生活费不足1.90美元。年轻工作者要更加脆弱：9%的成年工作者及其家人生活在极端贫困中，而青年工作者的这一比例为15%。
-* 2016年，全球的失业者只有22%领取了失业救济金，重度残疾人只有28%得到残疾抚恤金，儿童只有35%享有社会保障，产妇只有41%享有孕产福利，超过退休年龄的人口有68%领取养老金。
-* 自然灾害造成的经济损失每年平均达到2 500亿至3 000亿美元，对小国和脆弱国家影响尤甚。
+## 形成我国城市公共交通现有问题的主要原因： 
+
+* 随着经济的发展，交通需求迅速增大，公共交通负荷日益加重，由于公共交通运力并不能满足人们的需求，城市公共交通疲于应付，公共交通即使有所发展，但仍未解决交通问题，而人们日益增长的购车欲望加速私人小汽车的急剧增长。同时随着市场经济的的发展，大量个体性质的营运私人汽车涌上街头，加上市民出行心理的变化，致使公共交通拥堵加剧。
+* 虽然政府部门已认识到公共交通在解决城市交通问题中的地位和作用，极力推动公共交通的发展，但缺乏改革公交企业的运行机制，道路建设等问题，交通拥堵迟迟未解。
+
+## 我国城市公共交通的发展策略及其解决方案：
+* 公交运营调度和车队管理的智能化。近年来，美国在公共交通的车队管理方面，以车辆、提高服务（供给）效率与质量和乘客安全为核心，积极吸取各种基于车辆的智能公共交通系统APTS（AdvancedPublicTransportationSystem）技术以及车辆和车队调度营运的新理念，提高公共交通的有效性和可靠性，使公共交通对乘客和服务区更具吸引力。 
+* 探索建设城市轨道交通发展方可行性研究。随着经济发展和地铁、有轨列车等轨道交通的发展形成，能有效减少城市道路拥堵问题，改变人们的出行方式
 </div>
 </div>
-
-## 参考来源
-* [SDG 2017报告：全文-中文](https://unstats.un.org/sdgs/files/report/2017/TheSustainableDevelopmentGoalsReport2017_Chinese.pdf)
-* [SDG 2017报告：目标1-英文](https://unstats.un.org/sdgs/report/2017/goal-01/)
