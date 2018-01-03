@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "听说做网站能止血....."
 ---
 
 <div class="tiles">
